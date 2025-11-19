@@ -6,9 +6,15 @@ A JavaScript-based automation system that performs Google searches and captures 
 
 **Technologies & Frameworks**
 
-Cypress - End-to-end testing framework
-xlsx (SheetJS) - Excel file manipulation library
-Excel/XLSX - Data storage and results tracking
+
+1 . Cypress - End-to-end testing framework
+
+
+2 . xlsx (SheetJS) - Excel file manipulation library
+
+
+3 . Excel/XLSX - Data storage and results tracking
+
 
 **Workflow**
 
